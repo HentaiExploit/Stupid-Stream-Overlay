@@ -1,0 +1,26 @@
+{
+  "name": "stupid-stream-overlay",
+  "version": "1.0.0",
+  "description": "a stupid stream overlay for people who only have one screen",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "URL-ICI"
+  },
+  "keywords": [
+    "HentaiExploit",
+    "sso",
+    "stupid",
+    "stream",
+    "overlay"
+  ],
+  "author": "HentaiExploit",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^13.1.5"
+  }
+}
